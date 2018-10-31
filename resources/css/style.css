@@ -18,3 +18,23 @@ h1 {
 p {
     text-align: center;
 }
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+#subtext {
+  font-family: Verdana;
+  font-size: 21px;
+  Color: gray;
+}
+
+#copyright {
+  text-align: right;
+  Color: gray;
+  font-family: verdana, sans-serif;
+}
